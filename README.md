@@ -1,6 +1,6 @@
 # Systemd Service Generator
 
-This Python script facilitates the creation and management of systemd services effortlessly. It interactively guides users through service configuration, automates service file generation, and provides commands for seamless service management.
+This Python script facilitates the creation of systemd services effortlessly. It interactively guides users through service configuration, automates service file generation, and provides commands for seamless service management.
 
 ## Features
 - Interactive setup for service name, description, executable path, user, etc.
