@@ -1,4 +1,4 @@
-# Systemd Service Generator
+# ServiceCraft
 
 This Python script facilitates the creation of systemd services effortlessly. It interactively guides users through service configuration, automates service file generation, and provides commands for seamless service management.
 
